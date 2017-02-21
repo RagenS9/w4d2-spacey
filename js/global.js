@@ -38,22 +38,6 @@ var falcon = new spaceship3()
 falcon.launch();
 
 //spaceship 4
-    // Class
-    // class Vehicle {
-    //     constructor() {
-    //         this.make = 'Toyota'
-    //         this.model = 'Yaris'
-    //     }
-
-    //     drive(speed) {
-    //         console.log(this.make + ' ' + this.model + ' is driving ' + speed + 'mph.')
-    //     }
-    // }
-
-    // var car = new Vehicle()
-
-    // Call the drive method with a speed argument value of 55
-    // car.drive(55)
  class Spaceship4 {
      constructor() {
          this.shipName = 'Heart of Gold'
